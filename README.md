@@ -1,17 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/619186/52172760-33710f00-275d-11e9-9adb-8ea4209e4453.png" height="100" /><br/>
-  <span><b>DevHub</b>: <span>GitHub Management Tool</span><br/>
-  <span><a href="https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link" target="_blank">Android</a>, <a href="https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link" target="_blank">iOS</a>, <a href="https://devhubapp.com/" target="_blank">Web</a> & <a href="https://github.com/devhubapp/devhub/releases" target="_self">Desktop</a> with <b>95%+ code sharing</b> between them<br/><i>thanks to React Native + React Native Web</i></span><br/>
-  <p align="center">
-    <a href="https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_button" target="_blank"><img alt="Download on the App Store" height="50" src="https://user-images.githubusercontent.com/619186/52173137-d416fd00-2764-11e9-98c1-77607061f188.png" /></a>
-    <a href="https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_button" target="_blank"><img alt="Get it on Google Play" height="50" src="https://user-images.githubusercontent.com/619186/52173136-d416fd00-2764-11e9-9599-7c098c14bb37.png" /></a>
-  </p>
+  <img src="https://user-images.githubusercontent.com/619186/52172760-33710f00-275d-11e9-9adb-8ea4209e4453.png" height="100" />
 </p>
 
+<p align="center">DevHub is a <b>mobile and desktop</b> app to help you <b>manage GitHub Notifications</b> and stay on top of <b>Repository Activities</b>. Save <b>custom searches</b>, apply <b>filters</b>, <b>bookmark</b> items and don't miss anything important.</p>
 
-## Why
-
-DevHub is a **mobile and desktop** app to help you **manage GitHub Notifications** and stay on top of **repository activities**. Save **custom searches**, apply **filters** and don't miss anything important.
+<p align="center">
+  <span><a href="https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link" target="_blank">Android</a>, <a href="https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link" target="_blank">iOS</a>, <a href="https://devhubapp.com/" target="_blank">Web</a> & <a href="https://github.com/devhubapp/devhub/releases" target="_self">Desktop</a> with <b>95%+ code sharing</b> between them<br/><i>thanks to React Native + React Native Web</i></span><br/>
+  <p align="center">👉 <a href="https://devhubapp.com" target="_blank">devhubapp.com</a> 👈</p>
 
 <br/>
 
@@ -19,7 +14,7 @@ DevHub is a **mobile and desktop** app to help you **manage GitHub Notifications
 
 ### Desktop
 
-![DevHub Desktop](https://user-images.githubusercontent.com/619186/65840754-13491e00-e2f3-11e9-9c4b-70c29df181c9.jpg))
+![DevHub Desktop](https://user-images.githubusercontent.com/619186/65840754-13491e00-e2f3-11e9-9c4b-70c29df181c9.jpg)
 
 
 #### Menubar
@@ -33,21 +28,6 @@ DevHub is a **mobile and desktop** app to help you **manage GitHub Notifications
   <img alt="DevHub Mobile - Notification Filters" height="620" src="https://devhubapp.com/static/screenshots/iphone-notifications-filters-dark.jpg" />
   <img alt="DevHub Mobile - Repository activity" height="620" src="https://devhubapp.com/static/screenshots/iphone-events-dark.jpg" />
 </p>
-
-<br/>
-
-## Download links
-
-- Web: [devhubapp.com](https://devhubapp.com/)
-- Android: [Play Store](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link)
-- iOS: [App Store](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link)
-- Desktop:
-  - [GitHub Releases](https://github.com/devhubapp/devhub/releases) (macOS, Windows, Linux)
-  - Homebrew (macOS alternative):
-    ```
-      brew tap devhubapp/devhub
-      brew cask install devhub
-    ```
 
 <br/>
 
